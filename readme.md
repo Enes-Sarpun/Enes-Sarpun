@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Enes Sarpun 👋</h1>
 
 <p align="center">
-  Data / AI / ML enthusiast with a focus on computer vision and deep learning.
+  Electrical & Electronics Engineering student working in AI, Machine Learning, and Image Processing.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/enes-sarpün-339314324">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/your-kaggle">
@@ -14,7 +14,7 @@
   <a href="https://huggingface.co/your-hf">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:enessarpun63@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -23,10 +23,10 @@
 
 ### About Me
 
-- 🔭 I work mainly with **Python** for data science, deep learning, and computer vision.
-- 🧠 Interested in machine learning, neural networks, and visual SLAM (currently exploring **ORB-SLAM**).
-- 🛠️ I build desktop tools with **PyQt5 / Tkinter** and process images with **OpenCV**.
-- 📊 Comfortable turning data into insight with the scientific Python stack.
+- 🎓 Electrical & Electronics Engineering student at **Düzce University**.
+- 🤖 Focused on **AI, Machine Learning, and Image Processing**.
+- 🐍 I work mainly with **Python**, building data-driven and software-focused projects.
+- 📚 A lifelong learner, always exploring new technologies and sharpening my problem-solving skills.
 
 ---
 
@@ -65,8 +65,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=graywhite" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enes-Sarpun&show_icons=true&hide_border=true&theme=graywhite" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Sarpun&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ _Coming soon..._
 
 <!-- Snake animation - GitHub Actions ile otomatik üretilir (kurulum adımları sohbette) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enes-Sarpun/Enes-Sarpun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enes-Sarpun/Enes-Sarpun/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Enes-Sarpun/Enes-Sarpun/output/github-contribution-grid-snake.svg">
 </picture>
