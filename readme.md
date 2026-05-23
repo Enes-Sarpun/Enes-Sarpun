@@ -70,13 +70,6 @@
 
 ---
 
-### Featured Projects
-
-<!-- Buraya öne çıkarmak istediğin projeleri ekle. Örnek format:
-- **[Proje Adı](https://github.com/your-username/proje-repo)** — Tek cümlelik açıklama.
--->
-
-_Coming soon..._
 
 ---
 
