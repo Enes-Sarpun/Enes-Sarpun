@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/enes-sarpün-339314324">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/your-kaggle">
+  <a href="[https://www.kaggle.com/your-kaggle](https://www.kaggle.com/enessarpn)">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://huggingface.co/your-hf">
+  <a href="[https://huggingface.co/your-hf](https://huggingface.co/enessrpn)">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
   <a href="mailto:enessarpun63@gmail.com">
