@@ -39,7 +39,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-> C++ at intermediate level.
 
 **ML / Deep Learning**
 
@@ -71,13 +70,6 @@
 
 ---
 
-### Featured Projects
-
-<!-- Buraya öne çıkarmak istediğin projeleri ekle. Örnek format:
-- **[Proje Adı](https://github.com/your-username/proje-repo)** — Tek cümlelik açıklama.
--->
-
-_Coming soon..._
 
 ---
 
