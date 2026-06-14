@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enes Sarpun 👋</h1>
 
 <p align="center">
-  Electrical & Electronics Engineering student working in AI, Machine Learning, and Image Processing.
+  Electrical & Electronics Engineering student working in AI, Machine Learning, Deep Learning and Computer Vision Systems.
 </p>
 
 <p align="center">
