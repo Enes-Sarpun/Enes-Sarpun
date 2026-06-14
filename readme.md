@@ -24,7 +24,7 @@
 ### About Me
 
 - 🎓 Electrical & Electronics Engineering student at **Düzce University**.
-- 🤖 Focused on **AI, Machine Learning, and Image Processing**.
+- 🤖 Focused on **AI, Machine Learning, Deep Learning and Computer Vision Systems**.
 - 🐍 I work mainly with **Python**, building data-driven and software-focused projects.
 - 📚 A lifelong learner, always exploring new technologies and sharpening my problem-solving skills.
 
